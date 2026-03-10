@@ -1,0 +1,7 @@
+{
+    "main": "index.js",
+    "version": "0.0.1",
+    "name": "project",
+    "type": "module",
+    "author": "papiRick"
+}

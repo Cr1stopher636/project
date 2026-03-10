@@ -1,0 +1,1 @@
+import { multi } from "./mas.js";
