@@ -3,5 +3,8 @@
     "version": "0.0.1",
     "name": "project",
     "type": "module",
-    "author": "papiRick"
+    "author": "papiRick",
+    "dependencies": {
+        "ms": "^2.1.3"
+    }
 }
